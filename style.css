@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+/**/
+.card{
+    margin-left: 2.5rem;
+    width:14rem;
+    margin-bottom: 2rem;
+}
+/**/
+#img1{
+    width: 10vh;
+}
+
+
+#lista-filmes{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    padding: 2rem;
+}
